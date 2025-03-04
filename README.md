@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/65f786dc-c07e-47fe-a7ef-f3c41bb7c907)# Social Media Usage & Engagement Analysis Dashboard
+# Social Media Usage & Engagement Analysis Dashboard
 
 ## Overview
 This interactive **Social Media Usage & Engagement Analysis Dashboard** provides deep insights into user engagement with social media. It analyzes patterns of screen time, addiction levels, demographics, and device preferences to help understand user behavior, platform engagement, and productivity loss.
