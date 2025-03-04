@@ -1,4 +1,4 @@
-# Social Media Usage & Engagement Analysis Dashboard
+![image](https://github.com/user-attachments/assets/65f786dc-c07e-47fe-a7ef-f3c41bb7c907)# Social Media Usage & Engagement Analysis Dashboard
 
 ## Overview
 This interactive **Social Media Usage & Engagement Analysis Dashboard** provides deep insights into user engagement with social media. It analyzes patterns of screen time, addiction levels, demographics, and device preferences to help understand user behavior, platform engagement, and productivity loss.
@@ -65,8 +65,7 @@ This interactive **Social Media Usage & Engagement Analysis Dashboard** provides
 
 ## Technology Stack
 - **Power BI** – Data Visualization & Dashboards
-- **SQL** – Data Extraction & Transformation
-- **Python (Pandas, NumPy)** – Data Processing & Analysis
+- **Excel** – Data Processing & Transformation
 
 ## How to Use the Dashboard?
 1. Download or access the Power BI file
@@ -74,7 +73,7 @@ This interactive **Social Media Usage & Engagement Analysis Dashboard** provides
 3. Analyze visualizations to gain insights into social media behavior
 
 ## Dashboard Preview
-## [View Interactive Dashboard](https://github.com/Saher-Younas/Saher-Younas-Social_Media_Usage_and_Engagement_Analysis_Dashboard/blob/main/Dashboard.pdf)
+## [Dashboard](https://github.com/Saher-Younas/Saher-Younas-Social_Media_Usage_and_Engagement_Analysis_Dashboard/blob/main/Dashboard.pdf)
 ![image](https://github.com/user-attachments/assets/0ada7c12-f4a5-4e3e-9534-1ec5be48a6dc)
 ![image](https://github.com/user-attachments/assets/48985f94-4a34-44d6-bd05-cb4cc1ac983b)
 
